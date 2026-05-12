@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10-blue)](https://python.org)
 [![LangChain](https://img.shields.io/badge/LangChain-0.3-green)](https://langchain.com)
 [![Gradio](https://img.shields.io/badge/Gradio-5.0-orange)](https://gradio.app)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pFCi_Sfdxqc3_kbGgcm26U3ZzT8B7LtG?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/bhumikasingh11/travel-planner-ai/blob/main/README%20(1).md)
 
 ## 🎯 Features
 - AI-generated personalized itineraries
